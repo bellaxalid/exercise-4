@@ -1,0 +1,26 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Replace light bulb",
+            "description": "Buy the bulb from online"
+        },
+        {
+            "id": 2,
+            "title": "Subscribe to an internet service",
+            "description": "Plan to subscribe a fiber optic based service. Potential provider: TM Unifi and Maxis" },
+        {
+            "id": 3,
+            "title": "Online meeting with friends",
+            "description": "To discuss about the plan for setting up an online shopping store"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "fullname": "Alexander Holmes",
+            "username": "alex",
+            "password": "123"
+        }
+    ]
+}
